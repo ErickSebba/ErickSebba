@@ -3,6 +3,8 @@
 Estudante de Engenharia de Computação na UFMT · robótica, áudio/DSP e sistemas embarcados.
 Gosto de levar a teoria para o hardware: controle, processamento de sinais e robótica rodando em microcontroladores.
 
+*Computer Engineering student at UFMT (Brazil) working on robotics, audio/DSP and embedded systems. Project READMEs are in Portuguese, each with a short English summary at the top.*
+
 **Projetos em destaque**
 
 - [bimo-ik](https://github.com/ErickSebba/bimo-ik): cinemática inversa de um braço de 6 graus de liberdade com PSO e algoritmo genético (artigo no LARS 2026)
